@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarcosHenrique123(i'm brazilian)
-- 👀 I’m interested in create a game on a mobile device(i program in my cell phone because i don't have a computer)
-- 🌱 I’m currently learning JavaScript(i'm a principiant)
-- 💞️ I’m looking to collaborate on: a game develop
+- 👋 Hi, I’m @MarcosHenriqueSeixas(i'm brazilian)
+- 👀 I’m interested in front end development with ReactJs
+- 🌱 I’m currently learning NextJs and a bit of UI with Figma
+- 💞️ I’m looking to collaborate on: a web aplication,landing pages...
 - 📫 How to reach me:just send me a email on this email adress:marcoshenriqueseixas@gmail.com
 
 <!---
